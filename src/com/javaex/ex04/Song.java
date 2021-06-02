@@ -2,8 +2,8 @@ package com.javaex.ex04;
 
 public class Song {
 	
-	String title, artist, album, composer, track;
-	int year;
+	private String title, artist, album, composer, track;
+	private int year;
 	
 	public void setTitle(String title) {
 		this.title = title;
