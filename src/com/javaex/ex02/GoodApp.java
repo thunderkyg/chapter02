@@ -25,7 +25,7 @@ public class GoodApp {
 //		System.out.println("상품명: " + cup.name + ",  가격:" + cup.price);
 		
 		// USING PRIVATE FIELD AND METHODS
-			
+		
 		camera.setName("니콘");
 		camera.setPrice(400000);
 

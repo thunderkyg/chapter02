@@ -96,7 +96,7 @@ public class Tv {
 	
 	
 	public void status() {
-		System.out.println(channel + ", " + volume + ", " + power);
+		System.out.println("채널:" + channel + ", 볼륨: " + volume + ", 전원: " + power);
 		System.out.println();
 	}
 }
